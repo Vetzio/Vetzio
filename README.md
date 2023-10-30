@@ -11,3 +11,4 @@
 - 📚 I’m currently working on finishing reading GitHub for Dummies 😅
 - 🌱 I’m currently learning Git, HTML, and CSS
 - 😎 Pronouns: He/Him/Dude/or El Duderino if you're not into the whole brevity thing
+![MyOctocat](https://github.com/Vetzio/Vetzio/assets/130604688/d7a2e12c-14a9-49ae-9171-1687e738f9c9)
